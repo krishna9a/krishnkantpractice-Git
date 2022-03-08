@@ -1,2 +1,1 @@
-# krishnkantpractice-Git/README.md in master
-
+# krishnkantpractice-Git/README.md
